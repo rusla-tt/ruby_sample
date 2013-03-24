@@ -1,3 +1,4 @@
+require 'rubygems'
 require 'mongo_mapper'
 require 'date'
 
