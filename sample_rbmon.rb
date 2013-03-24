@@ -4,7 +4,7 @@ require 'date'
 # hostname = mongodbIPAddress or hostname
 # mongodb_port = mongodbPort
 # mongodbconnect
-MongoMapper.connection = Mongo::Connection.from_uri("mongodb://172.16.215.129:27017")
+MongoMapper.connection = Mongo::Connection.from_uri("mongodb://xxx.xxx.xxx.xxx:xxxxx")
 # DBconnect
 MongoMapper.database = 'ruby_mongo'
 
